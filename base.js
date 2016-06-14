@@ -20,3 +20,11 @@ function includeHTML() {
     }
   }
 }
+
+$(document).ready(function() {
+  $("#logo").hover(function() {
+      $(this).attr('src', '/images/ben_shadow.png');
+  }, function() {
+      $(this).attr('src', '/images/ben.png');
+  });
+});
