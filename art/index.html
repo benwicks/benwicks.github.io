@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+<meta content="utf-8" http-equiv="encoding">
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
+<script>
+$(document).ready(function() {
+        var c=document.getElementById("my_canvas");
+        var ctx=c.getContext("2d");
+
+    $("#my_canvas").click(function(e){
+        var randomColor = Math.floor(Math.random()*16777215).toString(16);
+        console.log(randomColor);
+        ctx.fillStyle="#"+randomColor;
+        ctx.fillRect(0,0,c.width,c.height);
+        $("#hex").html("color: #" + randomColor);
+        // TODO: Change the color of the #hex text when the page color is too dark or too light
+   });
+})
+</script>
+<title>art</title>
+</head>
+<body style="height:100%;margin:0;">
+<p id="hex" style="position:fixed;top:0;width:100%;text-align:center;">color: #ffffff</p>
+<canvas id="my_canvas" style="position:absolute;width:100%;height:100%;z-index:-1;"
+</canvas>
+<div include-html="/copyright.html"></div>
+</body>
+</html>
