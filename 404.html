@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<head>
+<meta charset="UTF-8">
+<title>404 Error</title>
+<?php
+include($_SERVER["DOCUMENT_ROOT"].'/favicon.html');
+?>
+<link href="/css/style.css" rel="stylesheet" type="text/css">
+<script src="/jquery.js" type="text/javascript"></script>
+<script>
+$(document).ready(function() {
+    $("#logo").hover(function() {
+        $(this).attr('src', '/images/ben_shadow.png');
+    }, function() {
+        $(this).attr('src', '/images/ben.png');
+    });
+});
+</script>
+</head>
+<body>
+<!-- <?php include_once("analyticstracking.php") ?> -->
+<div id="header">
+    <span>
+        <a href="/">
+            <img id="logo" src="/images/ben.png" title="Benjamin Wicks" height="75" alt="ben" />
+        </a>
+        <br />
+        oops
+    </span>
+</div>
+<div include-html="nav.php"></div>
+<div id="content">
+    <h2>404 (Page Not Found) Error</h2>
+    <p>You might be in the wrong place.</p>
+</div>
+<div include-html="copyright.php"></div>
+</body>
+</html>
