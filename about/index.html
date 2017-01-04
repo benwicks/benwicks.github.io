@@ -2,9 +2,34 @@
 layout: default
 title: About Ben
 ---
-	<h1>{{ page.title }}</h1>
-	<div>
-		<p>Benjamin Wicks is currently 24 years old and he has lived in Omaha, NE since he was born.</p>
-		<p>Ben graduated from the <a href="http://bioinformatics.ist.unomaha.edu/undergraduate.php?p=undergraduate" target="_blank">bioinformatics</a> undergraduate program at the University of Nebraska at Omaha in May of 2014. There are special places in his heart for <a href="http://en.wikipedia.org/wiki/Ultimate_(sport)" target="_blank">Ultimate Frisbee</a>, <a href="http://developer.android.com/" target="_blank">Android</a>, and <a href="http://www.arduino.cc/" target="_blank">Arduino</a>.</p>
-		<p>He has been interested in human health and genetics for several years. Two of Ben's newer interests are DIY electronics and neuroscience. One field of particular interest to him is the <a href="http://en.wikipedia.org/wiki/Brain%E2%80%93computer_interface" target="_blank">interfacing</a> of mind and machine. What if prosthetics (of all sorts) could be developed that could interface closely with the brain and allow for very fine control?</p>
-	</div>
+<html>
+	<header>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+		<script type="text/javascript">
+			function calculateAge() {
+				todayDate = new Date();
+				todayYear = todayDate.getFullYear();
+				todayMonth = todayDate.getMonth();
+				todayDay = todayDate.getDate();
+				age = todayYear - 1992;
+				if (todayMonth < 3) {
+					age--;
+				}
+				if (3 == todayMonth && todayDay < 3) {
+					age--;
+				}
+				return age;
+			}
+			
+			document.getElementById('age').innerHTML = calculateAge();
+		</script>
+	</header>
+	<body>
+		<h1>{{ page.title }}</h1>
+		<div>
+			<p>Benjamin Wicks is currently <span id="age">24</span> years old and he has lived in Omaha, NE since he was born.</p>
+			<p>Ben graduated from the <a href="http://bioinformatics.ist.unomaha.edu/undergraduate.php?p=undergraduate" target="_blank">bioinformatics</a> undergraduate program at the University of Nebraska at Omaha in May of 2014. There are special places in his heart for <a href="http://en.wikipedia.org/wiki/Ultimate_(sport)" target="_blank">Ultimate Frisbee</a>, <a href="http://developer.android.com/" target="_blank">Android</a>, and <a href="http://www.arduino.cc/" target="_blank">Arduino</a>.</p>
+			<p>He has been interested in human health and genetics for several years. Two of Ben's newer interests are DIY electronics and neuroscience. One field of particular interest to him is the <a href="http://en.wikipedia.org/wiki/Brain%E2%80%93computer_interface" target="_blank">interfacing</a> of mind and machine. What if prosthetics (of all sorts) could be developed that could interface closely with the brain and allow for very fine control?</p>
+		</div>
+	</body>
+</html>
