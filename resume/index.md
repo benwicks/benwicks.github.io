@@ -4,7 +4,7 @@ title: My Resume
 
 # Benjamin L. Wicks
 
-<mailto:ben@benjaminwicks.com> • <a href="tel:+14023017127">402-301-7127</a> • Omaha, NE 68154
+<mailto:bejaminlwicks@gmail.com> • <a href="tel:+14023017127">402-301-7127</a> • Omaha, NE 68106
 
 [github](https://github.com/benwicks) • [linkedin](https://www.linkedin.com/in/benjaminwicks/)
 
@@ -17,7 +17,7 @@ I love breaking complex problems down into manageable pieces, quickly learning, 
 ## Buildertrend Solutions (February 2015 – present)
 ### **Android Developer and Android Technical Lead** for *Jake Johnson*
 - Transitioned app from Cordova to native
-- Added online payments
+- Added online payment processing
 - Implemented Material Design
 - Switched to vector image assets
 - Added integration testing framework
