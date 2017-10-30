@@ -6,22 +6,23 @@ title: About Ben
 	<header>
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
 		<script type="text/javascript">
-			function calculateAge() {
-				todayDate = new Date();
-				todayYear = todayDate.getFullYear();
-				todayMonth = todayDate.getMonth();
-				todayDay = todayDate.getDate();
-				age = todayYear - 1992;
-				if (todayMonth < 3) {
-					age--;
+			window.onload = function() {
+				function calculateAge() {
+					todayDate = new Date();
+					todayYear = todayDate.getFullYear();
+					todayMonth = todayDate.getMonth();
+					todayDay = todayDate.getDate();
+					age = todayYear - 1992;
+					if (todayMonth < 3) {
+						age--;
+					}
+					if (3 == todayMonth && todayDay < 3) {
+						age--;
+					}
+					return age;
 				}
-				if (3 == todayMonth && todayDay < 3) {
-					age--;
-				}
-				return age;
+				document.getElementById('age').innerHTML = calculateAge();
 			}
-			
-			document.getElementById('age').innerHTML = calculateAge();
 		</script>
 	</header>
 	<body>
