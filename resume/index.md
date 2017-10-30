@@ -14,13 +14,14 @@ I love breaking complex problems down into manageable pieces, quickly learning, 
 ---
 
 ## Professional Experience
-## Buildertrend Solutions (February 2015 – present)
+## Buildertrend Solutions (February 2015 – November 2017)
 ### **Android Developer and Android Technical Lead** for *Jake Johnson*
 - Transitioned app from Cordova to native
 - Added online payment processing
 - Implemented Material Design
 - Switched to vector image assets
 - Added integration testing framework
+- Improved Jenkins CI/CD server
 - Investigated protocol buffers
 
 ## University of Nebraska Medical Center (June 2014 – January 2015)
