@@ -14,6 +14,11 @@ I love breaking complex problems down into manageable pieces, quickly learning, 
 ---
 
 ## Professional Experience
+
+## Client Resources, Inc. Solutions Center (November 2017 - Present)
+### **Senior Android Developer** for *Todd Britson*
+- Prepared a financial app for production
+
 ## Buildertrend Solutions (February 2015 – November 2017)
 ### **Android Developer and Android Technical Lead** for *Jake Johnson*
 - Transitioned app from Cordova to native
