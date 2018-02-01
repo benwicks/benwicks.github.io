@@ -6,7 +6,7 @@ title: My Resume
 
 <mailto:bejaminlwicks@gmail.com> • <a href="tel:+14023017127">402-301-7127</a> • Omaha, NE 68106
 
-[github](https://github.com/benwicks) • [linkedin](https://www.linkedin.com/in/benjaminwicks/)
+[github](https://github.com/benwicks) • [linkedin](https://www.linkedin.com/in/benjaminwicks/) • [presentations](https://speakerdeck.com/benwicks)
 
 ## Software Development
 I love breaking complex problems down into manageable pieces, quickly learning, overcoming challenges, relating to anyone, and bringing order to life. I am interested in mobile technologies, human-computer interfaces, electronics prototyping, and being active.
