@@ -9,7 +9,9 @@ title: My Resume
 [github](https://github.com/benwicks) • [linkedin](https://www.linkedin.com/in/benjaminwicks/) • [presentations](https://speakerdeck.com/benwicks)
 
 ## Software Development
-I love breaking complex problems down into manageable pieces, quickly learning, overcoming challenges, relating to anyone, and bringing order to life. I am interested in mobile technologies, human-computer interfaces, electronics prototyping, and being active.
+I love learning the best way to build products, relating to anyone, and continuously growing intellectually.
+
+I am especially interested in mobile technology, electronics hardware prototyping, and being active.
 
 ---
 
@@ -17,7 +19,8 @@ I love breaking complex problems down into manageable pieces, quickly learning, 
 
 ## Client Resources, Inc. Solutions Center (November 2017 - Present)
 ### **Senior Android Developer** for *Todd Britson*
-- Prepared a financial app for production
+- Prepared a banking app for production release
+- Improved Jenkins CI/CD server
 
 ## Buildertrend Solutions (February 2015 – November 2017)
 ### **Android Developer and Android Technical Lead** for *Jake Johnson*
@@ -28,6 +31,7 @@ I love breaking complex problems down into manageable pieces, quickly learning, 
 - Added integration testing framework
 - Improved Jenkins CI/CD server
 - Investigated protocol buffers
+- Facilitated weekly tech talks
 
 ## University of Nebraska Medical Center (June 2014 – January 2015)
 ### **Applications Programmer** for *Lee Trant*
@@ -36,7 +40,7 @@ I love breaking complex problems down into manageable pieces, quickly learning, 
 ---
 
 ## Undergraduate Experience
-## Nebraskas INBRE Program (May 2012 – June 2014)
+## Nebraska INBRE Program (May 2012 – June 2014)
 ### **Research Assistant** for *Dr. Rob Lewis* and *Dr. Mark Pauley*
 ## UNO Math Dept. Cell Collective (December 2011 – May 2012)
 ### **Java Web Developer** for *Dr. Tomas Helikar*
