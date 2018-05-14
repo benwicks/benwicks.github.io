@@ -8,17 +8,17 @@ title: My Resume
 
 [github](https://github.com/benwicks) • [linkedin](https://www.linkedin.com/in/benjaminwicks/) • [presentations](https://speakerdeck.com/benwicks)
 
-## Software Development
-I love learning the best way to build products, relating to anyone, and continuously growing intellectually.
+## App Development
+I love learning the best way to build apps, relating to anyone, and continuously growing intellectually.
 
-I am especially interested in mobile technology, electronics hardware prototyping, and being active.
+I am especially interested in mobile app development. I also really enjoy electronics hardware prototyping and being active.
 
 ---
 
 ## Professional Experience
 
 ## Client Resources, Inc. Solutions Center (November 2017 - Present)
-### **Senior Android Developer** for *Todd Britson*
+### **Android Team Domain Lead** for *Todd Britson*
 - Prepared a banking app for production release
 - Improved Jenkins CI/CD server
 
