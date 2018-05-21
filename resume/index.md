@@ -21,6 +21,8 @@ I am especially interested in mobile app development. I also really enjoy electr
 ### **Android Team Domain Lead** for *Todd Britson*
 - Prepared a banking app for production release
 - Improved Jenkins CI/CD server
+- Helped train new team member
+- Facilitated weekly team tech talks
 
 ## Buildertrend Solutions (February 2015 – November 2017)
 ### **Android Developer and Android Technical Lead** for *Jake Johnson*
