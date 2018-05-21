@@ -21,7 +21,7 @@ I am especially interested in mobile app development. I also really enjoy electr
 ### **Android Team Domain Lead** for *Todd Britson*
 - Prepared a banking app for production release
 - Improved Jenkins CI/CD server
-- Helped train new team member
+- Trained new team member
 - Facilitated weekly team tech talks
 
 ## Buildertrend Solutions (February 2015 – November 2017)
@@ -33,6 +33,7 @@ I am especially interested in mobile app development. I also really enjoy electr
 - Added integration testing framework
 - Improved Jenkins CI/CD server
 - Investigated protocol buffers
+- Trained new team members
 - Facilitated weekly tech talks
 
 ## University of Nebraska Medical Center (June 2014 – January 2015)
