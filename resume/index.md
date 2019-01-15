@@ -11,7 +11,7 @@ title: My Resume
 ## App Development
 I love learning the best way to build apps, relating to anyone, and continuously growing intellectually.
 
-I am especially interested in mobile app development. I also really enjoy electronics hardware prototyping and being active.
+I am passionate about mobile app development, electronics hardware prototyping, and staying active.
 
 ---
 
@@ -29,12 +29,11 @@ I am especially interested in mobile app development. I also really enjoy electr
 - Transitioned app from Cordova to native
 - Added online payment processing
 - Implemented Material Design
-- Switched to vector image assets
+- Switched to vector image assets to reduce app size
 - Added integration testing framework
 - Improved Jenkins CI/CD server
-- Investigated protocol buffers
 - Trained new team members
-- Facilitated weekly tech talks
+- Facilitated weekly team tech talks
 
 ## University of Nebraska Medical Center (June 2014 – January 2015)
 ### **Applications Programmer** for *Lee Trant*
