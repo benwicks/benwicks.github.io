@@ -17,8 +17,11 @@ I am passionate about mobile app development, electronics hardware prototyping, 
 
 ## Professional Experience
 
-## Client Resources, Inc. Solutions Center (November 2017 - Present)
-### **Android Team Domain Lead** for *Todd Britson*
+## Farm Credit Services (November 2019 - Present)
+### **Mobile Applications Developer** for *Swapna Marathe*
+
+## Client Resources, Inc. Solutions Center (November 2017 - November 2019)
+### **Android Team Domain Lead** for *Todd Britson* and *Jackie Austin*
 - Prepared a banking app for production release
 - Improved Jenkins CI/CD server
 - Trained new team member
