@@ -19,6 +19,8 @@ I am passionate about mobile app development, electronics hardware prototyping, 
 
 ## Farm Credit Services (November 2019 - Present)
 ### **Mobile Applications Developer** for *Swapna Marathe*
+- Developed features in customer-facing and internal mobile apps
+- Supported internal web app
 
 ## Client Resources, Inc. Solutions Center (November 2017 - November 2019)
 ### **Android Team Domain Lead** for *Todd Britson* and *Jackie Austin*
