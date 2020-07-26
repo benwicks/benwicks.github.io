@@ -4,7 +4,7 @@ title: My Resume
 
 # Benjamin L. Wicks
 
-<mailto:bejaminlwicks@gmail.com> • <a href="tel:+14023017127">402-301-7127</a> • Omaha, NE 68106
+<mailto:ben@wicks.family> • <a href="tel:+14023017127">402-301-7127</a> • Omaha, NE 68106
 
 [github](https://github.com/benwicks) • [linkedin](https://www.linkedin.com/in/benjaminwicks/) • [presentations](https://speakerdeck.com/benwicks)
 
