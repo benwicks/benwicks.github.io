@@ -4,8 +4,6 @@ title: My Resume
 
 # Benjamin L. Wicks
 
-<mailto:ben@wicks.family> • <a href="tel:+14023017127">402-301-7127</a> • Omaha, NE 68106
-
 [github](https://github.com/benwicks) • [linkedin](https://www.linkedin.com/in/benjaminwicks/) • [presentations](https://speakerdeck.com/benwicks)
 
 ## App Development
@@ -17,7 +15,7 @@ I am passionate about mobile app development, electronics hardware prototyping, 
 
 ## Professional Experience
 
-## Farm Credit Services (November 2019 - Present)
+## Farm Credit Services of America (November 2019 - Present)
 ### **Mobile Applications Developer** for *Swapna Marathe*
 - Developed features in customer-facing and internal mobile apps
 - Supported internal web app
