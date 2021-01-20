@@ -2,7 +2,7 @@
 title: My Resume
 ---
 
-# Benjamin L. Wicks
+# Benjamin Wicks
 
 [github](https://github.com/benwicks) • [linkedin](https://www.linkedin.com/in/benjaminwicks/) • [presentations](https://speakerdeck.com/benwicks)
 
