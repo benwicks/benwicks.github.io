@@ -4,31 +4,31 @@ title: My Resume
 
 # Benjamin Wicks
 
-[github](https://github.com/benwicks) • [linkedin](https://www.linkedin.com/in/benjaminwicks/) • [presentations](https://speakerdeck.com/benwicks)
+[github](https://github.com/benwicks) • [linkedin](https://www.linkedin.com/in/blwicks/) • [presentations](https://speakerdeck.com/benwicks)
 
-## App Development
-I love learning the best way to build apps, relating to anyone, and continuously growing intellectually.
-
-I am passionate about mobile app development, electronics hardware prototyping, and staying active.
+## Android Engineer
+Responsible learner and mentor committed to building products the right way.
+Caring relater who helps bring out the best in everyone to balance teams.
+Software craftsman motivated to continuously grow through focused study.
 
 ---
 
 ## Professional Experience
 
 ## Farm Credit Services of America (November 2019 - Present)
-### **Mobile Applications Developer** for *Swapna Marathe*
+### Mobile Application Developer
 - Developed features in customer-facing and internal mobile apps
 - Supported internal web app
 
 ## Client Resources, Inc. Solutions Center (November 2017 - November 2019)
-### **Android Team Domain Lead** for *Todd Britson* and *Jackie Austin*
+### Android Team Domain Lead
 - Prepared a banking app for production release
 - Improved Jenkins CI/CD server
 - Trained new team member
 - Facilitated weekly team tech talks
 
 ## Buildertrend Solutions (February 2015 – November 2017)
-### **Android Developer and Android Technical Lead** for *Jake Johnson*
+### Android Android Technical Lead
 - Transitioned app from Cordova to native
 - Added online payment processing
 - Implemented Material Design
@@ -39,7 +39,7 @@ I am passionate about mobile app development, electronics hardware prototyping, 
 - Facilitated weekly team tech talks
 
 ## University of Nebraska Medical Center (June 2014 – January 2015)
-### **Applications Programmer** for *Lee Trant*
+### Applications Programmer
 - Converted old internal ASP web pages to standards-compliant PHP, HTML, and jQuery web pages
 
 ---
