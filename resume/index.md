@@ -15,7 +15,13 @@ Software craftsman motivated to continuously grow through focused study.
 
 ## Professional Experience
 
-## Farm Credit Services of America (November 2019 - Present)
+## American Express (December 2021 - Present)
+### Android Engineer III
+- Built international KYC verification flows
+- Implemented Material Design and Compose UI updates for multiple components
+- Championed platform initiatives like screenshot testing and OSS contributions
+
+## Farm Credit Services of America (November 2019 - November 2021)
 ### Mobile Application Developer
 - Developed features in customer-facing and internal mobile apps
 - Supported internal web app
@@ -40,7 +46,7 @@ Software craftsman motivated to continuously grow through focused study.
 
 ## University of Nebraska Medical Center (June 2014 – January 2015)
 ### Applications Programmer
-- Converted old internal ASP web pages to standards-compliant PHP, HTML, and jQuery web pages
+- Converted legacy internal ASP web pages to standards-compliant PHP, HTML, and jQuery web pages
 
 ---
 
